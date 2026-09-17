@@ -226,8 +226,5 @@ env/
 __pycache__/
 *.pyc
 *.csv
-<<<<<<< HEAD
 data/
 *.csv
-=======
->>>>>>> c792b26ee8b1000b584c91f819522dea3e03779b
